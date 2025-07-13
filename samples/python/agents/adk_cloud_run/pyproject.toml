@@ -5,7 +5,7 @@ description = "ADK Agent for Google Cloud Run"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "a2a-sdk>=0.2.11",
+    "a2a-sdk[sql]>=0.2.11",
     "starlette>=0.46.1",
     "uvicorn>=0.34.0",
     "click>=8.1.8",

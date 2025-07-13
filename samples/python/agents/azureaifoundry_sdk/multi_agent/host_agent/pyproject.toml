@@ -13,5 +13,5 @@ dependencies = [
     "semantic-kernel>=1.33.0",
     "httpx>=0.25.0",
     "python-dotenv>=1.0.0",
-    "a2a-sdk>=0.2.7",
+    "a2a-sdk[sql]>=0.2.11",
 ]
